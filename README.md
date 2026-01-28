@@ -1,4 +1,4 @@
-# Elevate_Labs_Task_2
+# Email Phishing Awareness
 # 📧 Understanding Email (Electronic Mail)
 
 Electronic Mail, commonly known as **email** or **e-mail**, is a method of exchanging messages between people using electronic devices. It has become one of the most foundational tools in modern communication.
